@@ -65,3 +65,9 @@ A.输出你好世界    B.输出：你好世界    C.输出 你好世界
 如果x > x2那么运行a
 
 #剩下的自行探索吧QAQ，等待更新吧（开学后更新变慢，不得已啊🥹）
+
+
+多给点fork和star吧球球了
+
+[![Stargazers repo roster for @nntandg/pengbooo](https://reporoster.com/stars/nntandg/pengbooo)](https://github.com/nntandg/pengbooo/stargazers)
+[![Forkers repo roster for @nntandg/pengbooo](https://reporoster.com/forks/nntandg/pengbooo)](https://github.com/nntandg/pengbooo/network/members)
